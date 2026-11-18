@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "changelog": "auto-resume (skip existing voice+images), NVENC->CPU encoder fallback",
+  "url": "engine.zip",
+  "size": 38662,
+  "sha256": "F504ED2C7BCE78D545E778556C7DEB3DAE90E4B230B414D1189C959868BD0695"
+}
