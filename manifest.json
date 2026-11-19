@@ -1,7 +1,21 @@
-{
+﻿{
   "version": 4,
-  "changelog": "chunked multi-pass mix for long films (fixes ffmpeg 7 + Windows 32k limit)",
   "url": "engine.zip",
+  "sha256": "cda62c4caafead36fbcfe4b9d06d72924da4ff581dcee6259e91dd1b48e295df",
   "size": 40089,
-  "sha256": "cda62c4caafead36fbcfe4b9d06d72924da4ff581dcee6259e91dd1b48e295df"
+  "changelog": "chunked multi-pass audio mix + modern two-channel updater",
+  "engine": {
+    "version": 4,
+    "url": "engine.zip",
+    "sha256": "cda62c4caafead36fbcfe4b9d06d72924da4ff581dcee6259e91dd1b48e295df",
+    "size": 40089,
+    "changelog": "chunked multi-pass audio mix -- fixes 10+ min videos on any ffmpeg"
+  },
+  "ui": {
+    "version": 1,
+    "url": "ui.zip",
+    "sha256": "1be65b4edf8a8870be95d5d61247850d7f4c17f5d15322d02de4491d9b392105",
+    "size": 67502,
+    "changelog": "modern settings, Gemini login/logout, two-channel in-app updater"
+  }
 }
