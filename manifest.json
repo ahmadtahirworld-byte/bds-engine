@@ -1,7 +1,7 @@
 {
-  "version": 2,
-  "changelog": "auto-resume (skip existing voice+images), NVENC->CPU encoder fallback",
+  "version": 3,
+  "changelog": "mix.py filter graph via -filter_complex_script (fixes Windows 32k command line limit for long cues)",
   "url": "engine.zip",
-  "size": 38662,
-  "sha256": "F504ED2C7BCE78D545E778556C7DEB3DAE90E4B230B414D1189C959868BD0695"
+  "size": 38885,
+  "sha256": "700AFCA2931258A5050BF4D56DDED9BAACA9F4BF041FAF2EE60AE9F9472AF5BF"
 }
