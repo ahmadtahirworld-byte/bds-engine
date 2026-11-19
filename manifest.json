@@ -1,7 +1,7 @@
 {
-  "version": 3,
-  "changelog": "mix.py filter graph via -filter_complex_script (fixes Windows 32k command line limit for long cues)",
+  "version": 4,
+  "changelog": "chunked multi-pass mix for long films (fixes ffmpeg 7 + Windows 32k limit)",
   "url": "engine.zip",
-  "size": 38885,
-  "sha256": "700afca2931258a5050bf4d56dded9baaca9f4bf041faf2ee60ae9f9472af5bf"
+  "size": 40089,
+  "sha256": "cda62c4caafead36fbcfe4b9d06d72924da4ff581dcee6259e91dd1b48e295df"
 }
